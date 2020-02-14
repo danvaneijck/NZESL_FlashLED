@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="esl-serverapi-5.4.5-77676b8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/esl-serverapi-5.4.5-77676b8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
